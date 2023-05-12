@@ -21,39 +21,19 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.luigi.fonseca@gmail.com">
+    <a href = "mailto: bruninhocorreia2013@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
+    <a href = "https://www.linkedin.com/in/brnocorreia/">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
-      <img width="35" src="youtube.svg">
-    </a>
-    <a href = "https://www.instagram.com/devparadev/">
-      <img width="25" src="instagram.png">
-    </a>
+    
+    
+    
 </div>
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
-
-
-
-
-
-
-
-
-
-
-
-
-- 👋 Hi, I’m @brnocorreia
-- 👀 I’m interested in Web Development and Scrapping using Python
-- 🌱 I’m currently learning Python, BeautifulSoup and Selenium 
-- 💞️ I’m looking to collaborate on cool and useful apps
-- 📫 How to reach me: Send me an email at the address dev.brunocorreia@gmail.com
 
 <!---
 brnocorreia/brnocorreia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
