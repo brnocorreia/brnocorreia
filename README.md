@@ -11,12 +11,15 @@
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Tecnologias principais </h1>
     <img align="center" height="30" width="40" alt="python-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img align="center" height="30" width="40" alt="fastapi-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
+    <img align="center" height="30" width="40" alt="django-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+    <img align="center" height="30" width="40" alt="sqlalchemy-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg">
     <img align="center" height="30" width="40" alt="selenium-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
-    <img align="center" height="30" width="40" alt="jupyter-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
     <img align="center" height="30" width="40" alt="mysql-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-    <img align="center" height="30" width="40" alt="dart-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-    <img align="center" height="30" width="40" alt="flutter-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-    <img align="center" height="30" width="40" alt="cpp-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+    <img align="center" height="30" width="40" alt="postgresql-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
+    
+    
+    
    </div>
     
   
